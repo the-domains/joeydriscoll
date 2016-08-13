@@ -1,0 +1,28 @@
+name: 'Joey Driscoll '
+favicon: null
+layout_spectrum: 0.25117986742407084
+typography_spectrum: 0.775246148230508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6109132391866297
+  lightness: 0.7561308578588068
+  saturation: 0.9895665207877755
+  rhythmicContrast: 0.02868659794330597
+purpose: []
